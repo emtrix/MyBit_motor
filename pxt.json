@@ -1,0 +1,21 @@
+{
+    "name": "MyBit",
+    "version": "1.0.0",
+    "description": "Extension for YahBoom MyBit V1.0",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:kittenbot/pxt-neopixel#v0.6.12"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-cn/MyBit-strings.json",
+        "_locales/zh-tw/MyBit-strings.json"
+
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
